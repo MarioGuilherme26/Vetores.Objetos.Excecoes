@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido como parte das atividades acadêmicas da faculdade. Utilizei a linguagem de programação Java como base principal, e a experiência foi extremamente enriquecedora para o aprimoramento das minhas habilidades técnicas.
